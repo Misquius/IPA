@@ -3,10 +3,10 @@
 ICT50220 Diploma of IT - Cluster 3 (Advanced Programming)
 Canterbury Technical Institute (CTI) - Study period 01/06/2026 - 27/11/2026
 
-- **Student name:** ____________________
-- **Student ID:** CTI_________
-- **Assessor:** ____________________
-- **Language / stack (confirmed with assessor on __/__/2026):** ____________________
+- **Student name:** Benjamin Herrera Bonilla
+- **Student ID:** CTI20260419
+- **Assessor:** Mili Singh
+- **Language / stack (confirmed with assessor on 07/11/2026):** HTML Javascript
 
 ## Project summary
 One connected e-commerce project: a webstore, a desktop interface and a mobile interface.
