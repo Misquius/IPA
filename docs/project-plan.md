@@ -1,6 +1,6 @@
 # Project Plan (Phase 1 - ICTPRG530)
 
-Student: __________  ID: CTI_______  Date: __/__/2026
+Student: Benjamin Herrera Bonilla  ID: CTI20260419 Date: 06/11/2026
 
 ## 1. Scope
 **In scope:** online webstore (products, cart, login), desktop interface, mobile interface, database + NoSQL storage, two mashups, security.
@@ -11,7 +11,7 @@ Student: __________  ID: CTI_______  Date: __/__/2026
 |---|---|---|
 | Source control | Git | Industry standard; commit history proves my authorship |
 | Code hosting | GitHub | Free cloud backup |
-| Project board | GitHub Projects / Trello *(circle one)* | Visual to-do tracking |
+| Project board | Trello | Visual to-do tracking |
 | Editor | VS Code | Free, works with every language |
 | Diagrams / Gantt | draw.io | Free, no install |
 
