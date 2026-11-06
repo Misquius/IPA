@@ -1,0 +1,14 @@
+# Never commit secrets
+.env
+config/database.local.*
+config/*.secret.*
+# Dependencies / build output
+node_modules/
+vendor/
+target/
+*.class
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
